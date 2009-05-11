@@ -1,0 +1,142 @@
+[
+    {
+        "pk": "id0",
+        "model": "grappelli.Navigation",
+        "fields": {
+            "order": 0,
+            "title": "Media Management"
+        }
+    },
+    {
+        "pk": "id1",
+        "model": "grappelli.Navigation",
+        "fields": {
+            "order": 1,
+            "title": "Contents"
+        }
+    },
+    {
+        "pk": "id2",
+        "model": "grappelli.Navigation",
+        "fields": {
+            "order": 2,
+            "title": "External"
+        }
+    },
+    {
+        "pk": "id3",
+        "model": "grappelli.Navigation",
+        "fields": {
+            "order": 3,
+            "title": "Documentation"
+        }
+    },
+    {
+        "pk": "id4",
+        "model": "grappelli.NavigationItem",
+        "fields": {
+            "category": "1",
+            "users": [],
+            "title": "FileBrowser",
+            "link": "/admin/filebrowser/",
+            "navigation": 1,
+            "order": 0
+        }
+    },
+    {
+        "pk": "id5",
+        "model": "grappelli.NavigationItem",
+        "fields": {
+            "category": "1",
+            "users": [],
+            "title": "Main",
+            "link": "/admin/",
+            "navigation": 2,
+            "order": 0
+        }
+    },
+    {
+        "pk": "id6",
+        "model": "grappelli.NavigationItem",
+        "fields": {
+            "category": "1",
+            "users": [],
+            "title": "Configuration",
+            "link": "/configuration_admin/",
+            "navigation": 2,
+            "order": 1
+        }
+    },
+    {
+        "pk": "id7",
+        "model": "grappelli.NavigationItem",
+        "fields": {
+            "category": "1",
+            "users": [],
+            "title": "Blog",
+            "link": "/blog_admin/",
+            "navigation": 2,
+            "order": 2
+        }
+    },
+    {
+        "pk": "id8",
+        "model": "grappelli.NavigationItem",
+        "fields": {
+            "category": "2",
+            "users": [],
+            "title": "Project Management",
+            "link": "#",
+            "navigation": 3,
+            "order": 0
+        }
+    },
+    {
+        "pk": "id9",
+        "model": "grappelli.NavigationItem",
+        "fields": {
+            "category": "2",
+            "users": [],
+            "title": "Statistics",
+            "link": "#",
+            "navigation": 3,
+            "order": 1
+        }
+    },
+    {
+        "pk": "id10",
+        "model": "grappelli.NavigationItem",
+        "fields": {
+            "category": "1",
+            "users": [],
+            "title": "CMS Help",
+            "link": "/grappelli/help/",
+            "navigation": 4,
+            "order": 0
+        }
+    },
+    {
+        "pk": "id11",
+        "model": "grappelli.NavigationItem",
+        "fields": {
+            "category": "1",
+            "users": [],
+            "title": "Technical Documentation",
+            "link": "#",
+            "navigation": 4,
+            "order": 1
+        }
+    },
+    {
+        "pk": "id12",
+        "model": "grappelli.NavigationItem",
+        "fields": {
+            "category": "2",
+            "users": [],
+            "title": "Tickets & Source-Code",
+            "link": "#",
+            "navigation": 4,
+            "order": 2
+        }
+    }
+]

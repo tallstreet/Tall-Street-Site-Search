@@ -1,0 +1,25 @@
+{% extends 'base.html' %}
+{% load searchtags %}
+{% block title %}{% trans title %}{% endblock %}
+
+{% block content %}
+<h1>{% trans title %}</h1>
+
+
+  {% for result in object_list %}
+  <h2><a href="{{ result.url }}">{{ result.title }}</a></h2>
+  <p>{{ result.description }}</p>
+  <div class="url"/>{{ result.url }}</div>
+  {% endfor %}
+
+<div>
+  {% if has_previous %}
+    <a href="{% url result.views.list %}?page={{ previous }}">&lt;-previous</a>
+  {% endif %}
+  {% if has_next %}
+    <a href="{% url result.views.list %}?page={{ next }}">next-&gt;</a>
+  {% endif %}
+</div>
+
+
+{% endblock %}

@@ -1,0 +1,41 @@
+K 25
+svn:wc:ra_dav:version-url
+V 36
+/svn/!svn/ver/226/trunk/templatetags
+END
+bookmarks.py
+K 25
+svn:wc:ra_dav:version-url
+V 49
+/svn/!svn/ver/179/trunk/templatetags/bookmarks.py
+END
+help.py
+K 25
+svn:wc:ra_dav:version-url
+V 44
+/svn/!svn/ver/182/trunk/templatetags/help.py
+END
+search_fields.py
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/svn/!svn/ver/181/trunk/templatetags/search_fields.py
+END
+generic.py
+K 25
+svn:wc:ra_dav:version-url
+V 47
+/svn/!svn/ver/110/trunk/templatetags/generic.py
+END
+__init__.py
+K 25
+svn:wc:ra_dav:version-url
+V 48
+/svn/!svn/ver/103/trunk/templatetags/__init__.py
+END
+navigation.py
+K 25
+svn:wc:ra_dav:version-url
+V 50
+/svn/!svn/ver/226/trunk/templatetags/navigation.py
+END

@@ -1,0 +1,52 @@
+8
+
+dir
+282
+http://django-grappelli.googlecode.com/svn/trunk/templates/grappelli/help
+http://django-grappelli.googlecode.com/svn
+
+
+
+2009-04-10T18:48:01.342143Z
+267
+sehmaschine
+
+
+svn:special svn:externals svn:needs-lock
+
+
+
+
+
+
+
+
+
+
+
+35d8ae9e-4555-0410-bd5f-97af217b58d9
+
+help.html
+file
+
+
+
+
+2009-05-09T19:57:05.000000Z
+2519cc15bddd1d192461f6cdb50bb19f
+2009-04-10T18:48:01.342143Z
+267
+sehmaschine
+
+help_detail.html
+file
+
+
+
+
+2009-05-09T19:57:05.000000Z
+7a4ab857364081a94209a237da423ee5
+2009-04-10T18:48:01.342143Z
+267
+sehmaschine
+

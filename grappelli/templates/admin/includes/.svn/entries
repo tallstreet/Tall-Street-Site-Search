@@ -1,0 +1,52 @@
+8
+
+dir
+282
+http://django-grappelli.googlecode.com/svn/trunk/templates/admin/includes
+http://django-grappelli.googlecode.com/svn
+
+
+
+2009-04-14T08:33:22.445619Z
+279
+sehmaschine
+
+
+svn:special svn:externals svn:needs-lock
+
+
+
+
+
+
+
+
+
+
+
+35d8ae9e-4555-0410-bd5f-97af217b58d9
+
+fieldset_inline.html
+file
+
+
+
+
+2009-05-09T19:57:06.000000Z
+ca156b2221b810f2af648d5d09b0bfa8
+2009-04-14T08:33:22.445619Z
+279
+sehmaschine
+
+fieldset.html
+file
+
+
+
+
+2009-05-09T19:57:06.000000Z
+8bed212f2cf2b044f16040ff6c318427
+2008-11-13T15:15:13.605361Z
+69
+sehmaschine
+

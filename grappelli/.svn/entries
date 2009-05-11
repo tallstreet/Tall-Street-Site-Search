@@ -1,0 +1,115 @@
+8
+
+dir
+282
+http://django-grappelli.googlecode.com/svn/trunk
+http://django-grappelli.googlecode.com/svn
+
+
+
+2009-05-04T10:09:20.611493Z
+282
+sehmaschine
+
+
+svn:special svn:externals svn:needs-lock
+
+
+
+
+
+
+
+
+
+
+
+35d8ae9e-4555-0410-bd5f-97af217b58d9
+
+media
+dir
+
+admin.py
+file
+
+
+
+
+2009-05-09T19:57:07.000000Z
+0207c495a6e2f06ab63b567ed7031c3e
+2009-04-09T11:39:59.709179Z
+254
+sehmaschine
+
+models
+dir
+
+__init__.py
+file
+
+
+
+
+2009-05-09T19:57:07.000000Z
+d41d8cd98f00b204e9800998ecf8427e
+2009-03-13T13:13:11.428875Z
+104
+sehmaschine
+
+settings.py
+file
+
+
+
+
+2009-05-09T19:57:07.000000Z
+89f00a8bbd6fffb1e4f1b8419aa0fa6c
+2009-03-26T12:25:52.483981Z
+211
+sehmaschine
+
+templatetags
+dir
+
+urls.py
+file
+
+
+
+
+2009-05-09T19:57:07.000000Z
+c76b8fe0172abe86ce0b487250025ac9
+2009-03-26T14:32:30.461273Z
+218
+sehmaschine
+
+views
+dir
+
+fields.py
+file
+
+
+
+
+2009-05-09T19:57:07.000000Z
+51f2c4c05e953a7454f3d901fdf71fbd
+2009-04-09T10:30:24.113443Z
+252
+sehmaschine
+
+context_processors.py
+file
+
+
+
+
+2009-05-09T19:57:07.000000Z
+4dc65f12db57da33d7c1f87204615e00
+2009-03-26T12:26:24.453544Z
+212
+sehmaschine
+
+templates
+dir
+

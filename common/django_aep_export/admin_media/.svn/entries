@@ -1,0 +1,88 @@
+8
+
+dir
+282
+http://django-grappelli.googlecode.com/svn/trunk/media
+http://django-grappelli.googlecode.com/svn
+
+
+
+2009-05-04T10:09:20.611493Z
+282
+sehmaschine
+
+
+svn:special svn:externals svn:needs-lock
+
+
+
+
+
+
+
+
+
+
+
+35d8ae9e-4555-0410-bd5f-97af217b58d9
+
+jquery
+dir
+
+LICENSE
+file
+
+
+
+
+2009-05-09T19:57:04.000000Z
+5a0849f5fdca6e6f17d2365e3ebca02d
+2008-09-25T13:22:05.112846Z
+40
+axel@vonautomatisch.at
+
+AUTHORS
+file
+
+
+
+
+2009-05-09T19:57:04.000000Z
+9c306d3a85e0fecb3f9907c8f0c071da
+2008-09-25T13:22:05.112846Z
+40
+axel@vonautomatisch.at
+
+css_grappelli
+dir
+
+css
+dir
+
+tinymce_setup
+dir
+
+tinymce
+dir
+
+img_grappelli
+dir
+
+img
+dir
+
+js
+dir
+
+README
+file
+
+
+
+
+2009-05-09T19:57:04.000000Z
+0376ed75e75b8caba300a67225614391
+2008-09-25T13:22:05.112846Z
+40
+axel@vonautomatisch.at
+

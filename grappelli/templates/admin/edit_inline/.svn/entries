@@ -1,0 +1,52 @@
+8
+
+dir
+282
+http://django-grappelli.googlecode.com/svn/trunk/templates/admin/edit_inline
+http://django-grappelli.googlecode.com/svn
+
+
+
+2009-04-09T09:38:05.995340Z
+250
+sehmaschine
+
+
+svn:special svn:externals svn:needs-lock
+
+
+
+
+
+
+
+
+
+
+
+35d8ae9e-4555-0410-bd5f-97af217b58d9
+
+stacked.html
+file
+
+
+
+
+2009-05-09T19:57:05.000000Z
+3da1a1b2ea3dd813d5d54b2e1b45b071
+2009-04-09T09:38:05.995340Z
+250
+sehmaschine
+
+tabular.html
+file
+
+
+
+
+2009-05-09T19:57:05.000000Z
+266e0fea365685bfb20cd4e854856ee3
+2009-04-09T09:38:05.995340Z
+250
+sehmaschine
+

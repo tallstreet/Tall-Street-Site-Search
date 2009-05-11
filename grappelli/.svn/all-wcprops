@@ -1,0 +1,41 @@
+K 25
+svn:wc:ra_dav:version-url
+V 23
+/svn/!svn/ver/282/trunk
+END
+admin.py
+K 25
+svn:wc:ra_dav:version-url
+V 32
+/svn/!svn/ver/254/trunk/admin.py
+END
+__init__.py
+K 25
+svn:wc:ra_dav:version-url
+V 35
+/svn/!svn/ver/104/trunk/__init__.py
+END
+settings.py
+K 25
+svn:wc:ra_dav:version-url
+V 35
+/svn/!svn/ver/211/trunk/settings.py
+END
+urls.py
+K 25
+svn:wc:ra_dav:version-url
+V 31
+/svn/!svn/ver/218/trunk/urls.py
+END
+fields.py
+K 25
+svn:wc:ra_dav:version-url
+V 33
+/svn/!svn/ver/252/trunk/fields.py
+END
+context_processors.py
+K 25
+svn:wc:ra_dav:version-url
+V 45
+/svn/!svn/ver/212/trunk/context_processors.py
+END

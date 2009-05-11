@@ -1,0 +1,115 @@
+8
+
+dir
+282
+http://django-grappelli.googlecode.com/svn/trunk/media/tinymce/jscripts/tiny_mce/plugins/table
+http://django-grappelli.googlecode.com/svn
+
+
+
+2009-03-03T12:39:01.586999Z
+95
+sehmaschine
+
+
+svn:special svn:externals svn:needs-lock
+
+
+
+
+
+
+
+
+
+
+
+35d8ae9e-4555-0410-bd5f-97af217b58d9
+
+editor_plugin.js
+file
+
+
+
+
+2009-05-09T19:56:49.000000Z
+aa25f98e7fc772c84c3a5e822417c781
+2009-03-03T12:39:01.586999Z
+95
+sehmaschine
+has-props
+
+langs
+dir
+
+cell.htm
+file
+
+
+
+
+2009-05-09T19:56:49.000000Z
+44bdd56658d8afd1b17bb8f0b36a3eda
+2009-03-03T12:39:01.586999Z
+95
+sehmaschine
+has-props
+
+editor_plugin_src.js
+file
+
+
+
+
+2009-05-09T19:56:49.000000Z
+57332e1871a88dbbee43c63b5b11628b
+2009-03-03T12:39:01.586999Z
+95
+sehmaschine
+has-props
+
+css
+dir
+
+merge_cells.htm
+file
+
+
+
+
+2009-05-09T19:56:49.000000Z
+e2c8360c37f1a4f7492ee555a9d2ff40
+2009-03-03T12:39:01.586999Z
+95
+sehmaschine
+has-props
+
+js
+dir
+
+row.htm
+file
+
+
+
+
+2009-05-09T19:56:49.000000Z
+862dcb05201061bea985b7ba8c26a013
+2009-03-03T12:39:01.586999Z
+95
+sehmaschine
+has-props
+
+table.htm
+file
+
+
+
+
+2009-05-09T19:56:49.000000Z
+8eaf68b57c9322259402021fbf6b057a
+2009-03-03T12:39:01.586999Z
+95
+sehmaschine
+has-props
+

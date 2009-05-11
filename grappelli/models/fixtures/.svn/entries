@@ -1,0 +1,52 @@
+8
+
+dir
+282
+http://django-grappelli.googlecode.com/svn/trunk/models/fixtures
+http://django-grappelli.googlecode.com/svn
+
+
+
+2009-03-16T17:33:10.771439Z
+174
+sehmaschine
+
+
+svn:special svn:externals svn:needs-lock
+
+
+
+
+
+
+
+
+
+
+
+35d8ae9e-4555-0410-bd5f-97af217b58d9
+
+grappelli_help.json
+file
+
+
+
+
+2009-05-09T19:57:05.000000Z
+c973e115a7e8b8a39bc7efaadebebe55
+2009-03-16T17:33:10.771439Z
+174
+sehmaschine
+
+grappelli_navigation.json
+file
+
+
+
+
+2009-05-09T19:57:05.000000Z
+d59263799f1895c76744ad38a36a9d24
+2009-03-16T16:52:34.949934Z
+161
+sehmaschine
+

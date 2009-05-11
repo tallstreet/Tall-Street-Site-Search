@@ -1,0 +1,54 @@
+8
+
+dir
+282
+http://django-grappelli.googlecode.com/svn/trunk/media/tinymce/jscripts/tiny_mce/plugins/emotions/langs
+http://django-grappelli.googlecode.com/svn
+
+
+
+2009-03-03T12:39:01.586999Z
+95
+sehmaschine
+
+
+svn:special svn:externals svn:needs-lock
+
+
+
+
+
+
+
+
+
+
+
+35d8ae9e-4555-0410-bd5f-97af217b58d9
+
+en_dlg.js
+file
+
+
+
+
+2009-05-09T19:56:46.000000Z
+1ed9d59b2b02aa2946218997a67424a8
+2009-03-03T12:39:01.586999Z
+95
+sehmaschine
+has-props
+
+de_dlg.js
+file
+
+
+
+
+2009-05-09T19:56:46.000000Z
+2247b2ff0daf4c6713bfc5f04d86b9c6
+2009-03-03T12:39:01.586999Z
+95
+sehmaschine
+has-props
+

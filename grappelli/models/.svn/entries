@@ -1,0 +1,79 @@
+8
+
+dir
+282
+http://django-grappelli.googlecode.com/svn/trunk/models
+http://django-grappelli.googlecode.com/svn
+
+
+
+2009-04-10T18:47:23.409373Z
+266
+sehmaschine
+
+
+svn:special svn:externals svn:needs-lock
+
+
+
+
+
+
+
+
+
+
+
+35d8ae9e-4555-0410-bd5f-97af217b58d9
+
+bookmarks.py
+file
+
+
+
+
+2009-05-09T19:57:05.000000Z
+9e1d46b7e928f79dab2fbccca6c36243
+2009-04-10T15:31:59.658763Z
+265
+sehmaschine
+
+help.py
+file
+
+
+
+
+2009-05-09T19:57:05.000000Z
+cac397e2d5777b5351318d52ef85c4bc
+2009-04-10T18:47:23.409373Z
+266
+sehmaschine
+
+__init__.py
+file
+
+
+
+
+2009-05-09T19:57:05.000000Z
+9b54ca0ef43a2eb90f462799bbda22c5
+2009-03-16T16:52:34.949934Z
+161
+sehmaschine
+
+navigation.py
+file
+
+
+
+
+2009-05-09T19:57:05.000000Z
+63d646c9dec5eebc73a44083f936f655
+2009-03-24T13:58:41.157484Z
+206
+sehmaschine
+
+fixtures
+dir
+

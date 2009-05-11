@@ -1,0 +1,118 @@
+8
+
+dir
+282
+http://django-grappelli.googlecode.com/svn/trunk/media/tinymce/examples
+http://django-grappelli.googlecode.com/svn
+
+
+
+2009-03-03T12:39:01.586999Z
+95
+sehmaschine
+
+
+svn:special svn:externals svn:needs-lock
+
+
+
+
+
+
+
+
+
+
+
+35d8ae9e-4555-0410-bd5f-97af217b58d9
+
+media
+dir
+
+full.html
+file
+
+
+
+
+2009-05-09T19:56:57.000000Z
+95d087a9e1995fd02469f0fa957b1bd3
+2009-03-03T12:39:01.586999Z
+95
+sehmaschine
+has-props
+
+menu.html
+file
+
+
+
+
+2009-05-09T19:56:57.000000Z
+0b04095edca7f428f2e2ab65481fbf74
+2009-03-03T12:39:01.586999Z
+95
+sehmaschine
+has-props
+
+css
+dir
+
+index.html
+file
+
+
+
+
+2009-05-09T19:56:57.000000Z
+0acc62b4cef4d0292f82040cd8586dc3
+2009-03-03T12:39:01.586999Z
+95
+sehmaschine
+has-props
+
+skins.html
+file
+
+
+
+
+2009-05-09T19:56:57.000000Z
+39bf28903b5525fb5eeb65d19fe1306b
+2009-03-03T12:39:01.586999Z
+95
+sehmaschine
+has-props
+
+simple.html
+file
+
+
+
+
+2009-05-09T19:56:57.000000Z
+4c90786af48090cf8cfd7cd59761d366
+2009-03-03T12:39:01.586999Z
+95
+sehmaschine
+has-props
+
+lists
+dir
+
+templates
+dir
+
+word.html
+file
+
+
+
+
+2009-05-09T19:56:57.000000Z
+19a764df2b5eb7780be5a4ec3c99f7a3
+2009-03-03T12:39:01.586999Z
+95
+sehmaschine
+has-props
+

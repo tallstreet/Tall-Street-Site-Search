@@ -1,0 +1,76 @@
+8
+
+dir
+282
+http://django-grappelli.googlecode.com/svn/trunk/media/tinymce/jscripts/tiny_mce/plugins/style
+http://django-grappelli.googlecode.com/svn
+
+
+
+2009-03-03T12:39:01.586999Z
+95
+sehmaschine
+
+
+svn:special svn:externals svn:needs-lock
+
+
+
+
+
+
+
+
+
+
+
+35d8ae9e-4555-0410-bd5f-97af217b58d9
+
+editor_plugin.js
+file
+
+
+
+
+2009-05-09T19:56:51.000000Z
+a33cf070cce70e0aaa4dd395366d9911
+2009-03-03T12:39:01.586999Z
+95
+sehmaschine
+has-props
+
+langs
+dir
+
+editor_plugin_src.js
+file
+
+
+
+
+2009-05-09T19:56:51.000000Z
+10ec7b919444e93153ff183260e64453
+2009-03-03T12:39:01.586999Z
+95
+sehmaschine
+has-props
+
+css
+dir
+
+props.htm
+file
+
+
+
+
+2009-05-09T19:56:51.000000Z
+d4e3d92f757881513ad4200472b1e87c
+2009-03-03T12:39:01.586999Z
+95
+sehmaschine
+has-props
+
+js
+dir
+

@@ -1,0 +1,7 @@
+*.csv
+*.pyc
+*.ini
+.project
+.settings
+.pydevproject
+_generated_media

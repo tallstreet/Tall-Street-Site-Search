@@ -1,0 +1,43 @@
+8
+
+dir
+282
+http://django-grappelli.googlecode.com/svn/trunk/templates
+http://django-grappelli.googlecode.com/svn
+
+
+
+2009-04-14T08:33:22.445619Z
+279
+sehmaschine
+
+
+svn:special svn:externals svn:needs-lock
+
+
+
+
+
+
+
+
+
+
+
+35d8ae9e-4555-0410-bd5f-97af217b58d9
+
+grappelli
+dir
+
+widget
+dir
+
+admin
+dir
+
+registration
+dir
+
+admin_doc
+dir
+

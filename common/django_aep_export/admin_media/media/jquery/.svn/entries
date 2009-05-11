@@ -1,0 +1,53 @@
+8
+
+dir
+282
+http://django-grappelli.googlecode.com/svn/trunk/media/jquery
+http://django-grappelli.googlecode.com/svn
+
+
+
+2009-04-02T11:28:19.181461Z
+229
+sehmaschine
+
+
+svn:special svn:externals svn:needs-lock
+
+
+
+
+
+
+
+
+
+
+
+35d8ae9e-4555-0410-bd5f-97af217b58d9
+
+jquery-ui-1.7.1.custom.min.js
+file
+
+
+
+
+2009-05-09T19:56:42.000000Z
+2acfcec761570b2631e51d9bf46653cb
+2009-04-02T11:26:49.953772Z
+228
+sehmaschine
+has-props
+
+jquery-1.3.2.min.js
+file
+
+
+
+
+2009-05-09T19:56:42.000000Z
+bb381e2d19d8eace86b34d20759491a5
+2009-04-02T11:26:49.953772Z
+228
+sehmaschine
+

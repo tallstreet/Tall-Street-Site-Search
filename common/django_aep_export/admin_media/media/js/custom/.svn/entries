@@ -1,0 +1,53 @@
+8
+
+dir
+282
+http://django-grappelli.googlecode.com/svn/trunk/media/js/custom
+http://django-grappelli.googlecode.com/svn
+
+
+
+2008-11-13T15:14:01.592924Z
+68
+sehmaschine
+
+
+svn:special svn:externals svn:needs-lock
+
+
+
+
+
+
+
+
+
+
+
+35d8ae9e-4555-0410-bd5f-97af217b58d9
+
+tinymce_3.0.js
+file
+
+
+
+
+2009-05-09T19:57:04.000000Z
+a1ace64877c182dce0c6af0c423bc3e3
+2008-09-19T13:33:09.055319Z
+4
+sehmaschine
+has-props
+
+wymeditor.js
+file
+
+
+
+
+2009-05-09T19:57:04.000000Z
+dfee95dfdccd8ef9a87bcc111ba5a364
+2008-11-13T15:14:01.592924Z
+68
+sehmaschine
+

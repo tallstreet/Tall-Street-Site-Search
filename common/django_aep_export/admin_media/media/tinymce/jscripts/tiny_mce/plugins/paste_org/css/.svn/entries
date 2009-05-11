@@ -1,0 +1,54 @@
+8
+
+dir
+282
+http://django-grappelli.googlecode.com/svn/trunk/media/tinymce/jscripts/tiny_mce/plugins/paste_org/css
+http://django-grappelli.googlecode.com/svn
+
+
+
+2009-03-03T12:39:01.586999Z
+95
+sehmaschine
+
+
+svn:special svn:externals svn:needs-lock
+
+
+
+
+
+
+
+
+
+
+
+35d8ae9e-4555-0410-bd5f-97af217b58d9
+
+pasteword.css
+file
+
+
+
+
+2009-05-09T19:56:44.000000Z
+e1dfc4d39541876eae65975a6febf6cc
+2009-03-03T12:39:01.586999Z
+95
+sehmaschine
+has-props
+
+blank.css
+file
+
+
+
+
+2009-05-09T19:56:44.000000Z
+5840c25c61645bca26e8e82a60f1d723
+2009-03-03T12:39:01.586999Z
+95
+sehmaschine
+has-props
+

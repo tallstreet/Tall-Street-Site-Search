@@ -1,0 +1,21 @@
+﻿application: gaesites
+version: 5 
+runtime: python
+api_version: 1
+
+default_expiration: '3650d'
+
+handlers:
+- url: /robots.txt
+  static_files: media/static/robots.txt
+  upload: media/static/robots.txt
+  
+- url: /remote_api
+  script: $PYTHON_LIB/google/appengine/ext/remote_api/handler.py
+  login: admin
+
+- url: /media
+  static_dir: _generated_media
+
+- url: /.*
+  script: common/appenginepatch/main.py

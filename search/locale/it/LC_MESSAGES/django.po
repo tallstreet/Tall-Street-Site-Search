@@ -1,0 +1,173 @@
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) YEAR THE PACKAGE'S COPYRIGHT HOLDER
+# This file is distributed under the same license as the PACKAGE package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
+#
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: PACKAGE VERSION\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2009-05-03 18:23+0000\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+
+#: .\forms.py:14
+msgid "All"
+msgstr "tutti"
+
+#: .\models.py:21
+msgid "Print daily news"
+msgstr "Quotidiani"
+
+#: .\models.py:22
+msgid "Print magazines"
+msgstr "Settimanale"
+
+#: .\models.py:23
+msgid "Print trade press"
+msgstr "Riviste"
+
+#: .\models.py:24
+msgid "Radio"
+msgstr "Radio"
+
+#: .\models.py:25
+msgid "TV"
+msgstr "Televisione"
+
+#: .\models.py:26
+msgid "Online"
+msgstr ""
+
+#: .\models.py:27
+msgid "Freelance"
+msgstr "indipendente"
+
+#: .\models.py:28
+msgid "Blogger"
+msgstr ""
+
+#: .\models.py:29
+msgid "Other"
+msgstr "diverso"
+
+#: .\models.py:33 .\templates\topitems.html.py:10
+msgid "Name"
+msgstr "Cognome"
+
+#: .\models.py:34
+msgid "First Name"
+msgstr "Nome"
+
+#: .\models.py:36
+msgid "Twitter ID*"
+msgstr ""
+
+#: .\models.py:37
+msgid "Category*"
+msgstr "Categoria"
+
+#: .\models.py:38
+msgid "Language*"
+msgstr "Lingua"
+
+#: .\models.py:39
+msgid "Location"
+msgstr "Località"
+
+#: .\models.py:40
+msgid "Publications"
+msgstr "Pubblicazioni"
+
+#: .\models.py:41
+msgid "URL"
+msgstr ""
+
+#: .\models.py:43
+msgid "E-mail"
+msgstr ""
+
+#: .\views.py:58
+msgid "All Listings"
+msgstr "Tutte le inserzioni"
+
+#: .\views.py:69 .\templates\topitems.html.py:9
+msgid "Recently Changed"
+msgstr "Recentemente cambiato"
+
+#: .\templates\index.html.py:7
+msgid "Swiss Journalists"
+msgstr "I giornalisti svizzeri usando Twitter"
+
+#: .\templates\index.html.py:8
+msgid ""
+"This is a directory of  Swiss Journalists on <a href=\"http://www.twitter."
+"com/\">Twitter"
+msgstr ""
+"Questa è una directory di giornalisti svizzeri su <a href=\"http://www."
+"twitter.com/\">Twitter"
+
+#: .\templates\index.html.py:9
+msgid "Add Yourself"
+msgstr "Aggiungi te"
+
+#: .\templates\index.html.py:10
+msgid "Listing is free"
+msgstr "Inserzione è libero"
+
+#: .\templates\index.html.py:10
+msgid "add a journalist"
+msgstr "aggiungere un giornalista"
+
+#: .\templates\index.html.py:13
+msgid "Top Users"
+msgstr "migliori"
+
+#: .\templates\index.html.py:22 .\templates\journalist_list.html.py:14
+msgid "followers"
+msgstr ""
+
+#: .\templates\index.html.py:23 .\templates\journalist_list.html.py:15
+msgid "Endorsed"
+msgstr "Parere"
+
+#: .\templates\index.html.py:24 .\templates\journalist_list.html.py:16
+msgid "Details"
+msgstr "Dettagli"
+
+#: .\templates\topitems.html.py:4
+msgid "Sort"
+msgstr "classificare"
+
+#: .\templates\topitems.html.py:7
+msgid "Popularity"
+msgstr "Popolarità"
+
+#: .\templates\topitems.html.py:8
+msgid "Recently Added"
+msgstr "recentemente aggiunto"
+
+#: .\templates\topitems.html.py:14
+msgid "Options"
+msgstr "Opzioni"
+
+#: .\templates\topitems.html.py:17
+msgid "Add Journalist"
+msgstr "Aggiungi Giornalista"
+
+#: .\templates\topitems.html.py:20
+msgid "Edit"
+msgstr "Modifica"
+
+#: .\templates\topitems.html.py:21
+msgid "Delete"
+msgstr "Eliminare"
+
+#: .\templates\topitems.html.py:24
+msgid "Endorse"
+msgstr "Approvare"

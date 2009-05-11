@@ -1,0 +1,35 @@
+K 25
+svn:wc:ra_dav:version-url
+V 29
+/svn/!svn/ver/218/trunk/views
+END
+bookmarks.py
+K 25
+svn:wc:ra_dav:version-url
+V 42
+/svn/!svn/ver/179/trunk/views/bookmarks.py
+END
+help.py
+K 25
+svn:wc:ra_dav:version-url
+V 37
+/svn/!svn/ver/195/trunk/views/help.py
+END
+generic.py
+K 25
+svn:wc:ra_dav:version-url
+V 40
+/svn/!svn/ver/192/trunk/views/generic.py
+END
+__init__.py
+K 25
+svn:wc:ra_dav:version-url
+V 41
+/svn/!svn/ver/104/trunk/views/__init__.py
+END
+related.py
+K 25
+svn:wc:ra_dav:version-url
+V 40
+/svn/!svn/ver/218/trunk/views/related.py
+END

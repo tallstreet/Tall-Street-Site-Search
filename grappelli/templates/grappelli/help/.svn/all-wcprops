@@ -1,0 +1,17 @@
+K 25
+svn:wc:ra_dav:version-url
+V 48
+/svn/!svn/ver/267/trunk/templates/grappelli/help
+END
+help.html
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/svn/!svn/ver/267/trunk/templates/grappelli/help/help.html
+END
+help_detail.html
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/!svn/ver/267/trunk/templates/grappelli/help/help_detail.html
+END
